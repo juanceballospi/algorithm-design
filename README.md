@@ -7,3 +7,22 @@ Este repositorio contiene la evolución, ejercicios y proyectos desarrollados du
 ## 🛠️ Tecnologías y Herramientas
 
 1. **PSInt**: Herramienta para el diseño y ejecución de algoritmos en pseudocódigo.
+
+## Clases
+
+1. **Clase 1**: 17/02/2026 - Introducción a los algoritmos
+
+- [CalculoLiquidacion.psc](CalculoLiquidacion.psc)
+- [CalculoVelocidad.psc](CalculoVelocidad.psc)
+- [DiasMinutosSegundos.psc](DiasMinutosSegundos.psc)
+
+2. **Clase 2**: 24/02/2026 - Introducción a los algoritmos
+
+- [CalculoMayoriaEdad.psc](CalculoMayoriaEdad.psc)
+- [Definitiva.psc](Definitiva.psc)
+- [Descuento.psc](Descuento.psc)
+- [MayorDeDosNumeros.psc](MayorDeDosNumeros.psc)
+- [MensajeNota.psc](MensajeNota.psc)
+- [PagoParquedaero.psc](PagoParquedaero.psc)
+- [ParImpar.psc](ParImpar.psc)
+- [Tanque.psc](Tanque.psc)
